@@ -40,8 +40,8 @@
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-16" value="数据价值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="180" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="P4ttNP-QqYCXLfUL0XQH-19" value="权属验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="157.5" width="160" height="25" as="geometry" />
+        <mxCell id="P4ttNP-QqYCXLfUL0XQH-19" value="链上链下协同管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="155" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-20" value="真实性校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="385" width="80" height="25" as="geometry" />
