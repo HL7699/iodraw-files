@@ -113,7 +113,7 @@
           <mxGeometry x="350" y="462.5" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ncBWhAuopKtA7Fv9mHTQ-2" value="真实性验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="395" width="80" height="25" as="geometry" />
+          <mxGeometry x="560" y="385" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
