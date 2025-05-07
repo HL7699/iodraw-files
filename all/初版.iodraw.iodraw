@@ -55,7 +55,7 @@
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="210" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P4ttNP-QqYCXLfUL0XQH-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;数据库&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P4ttNP-QqYCXLfUL0XQH-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;数据仓库&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="462.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-25" value="动态集成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -110,7 +110,7 @@
           <mxGeometry x="270" y="235" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;数据湖&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="462.5" width="54" height="30" as="geometry" />
+          <mxGeometry x="354" y="462.5" width="56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
