@@ -44,7 +44,7 @@
           <mxGeometry x="560" y="157.5" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-20" value="真实性验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="395" width="80" height="25" as="geometry" />
+          <mxGeometry x="466" y="380" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,7 +95,7 @@
           <mxGeometry x="560" y="437.5" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-50" value="元数据提取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="466" y="360" width="80" height="25" as="geometry" />
+          <mxGeometry x="466" y="350" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-51" value="数据确权" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="367.5" width="80" height="25" as="geometry" />
