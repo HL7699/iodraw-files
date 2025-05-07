@@ -65,7 +65,10 @@
           <mxGeometry x="346" y="217" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-27" value="自动化编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="244" width="70" height="20" as="geometry" />
+          <mxGeometry x="346" y="243" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P4ttNP-QqYCXLfUL0XQH-28" value="&lt;span style=&quot;font-size:16.0pt;font-family:仿宋_GB2312;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;脱密脱敏&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552.6000279017858" y="293.59999302455356" width="113" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
