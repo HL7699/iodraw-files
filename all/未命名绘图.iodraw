@@ -68,7 +68,7 @@
           <mxGeometry x="346" y="243" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-29" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;元数据体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="478" y="280" width="158" height="26" as="geometry" />
+          <mxGeometry x="478" y="280" width="152" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-30" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;知识图谱隐私保护嵌入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="478" y="315" width="158" height="26" as="geometry" />
