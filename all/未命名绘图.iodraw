@@ -71,7 +71,7 @@
           <mxGeometry x="478" y="280" width="152" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-30" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;知识图谱隐私保护嵌入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="478" y="315" width="158" height="26" as="geometry" />
+          <mxGeometry x="478" y="315" width="152" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-31" value="AL/ML 数据集成分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="280" width="180" height="60" as="geometry" />
