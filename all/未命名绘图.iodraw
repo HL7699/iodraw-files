@@ -55,7 +55,7 @@
             <mxPoint x="450" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4ttNP-QqYCXLfUL0XQH-23" value="数据虚拟化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="P4ttNP-QqYCXLfUL0XQH-23" value="数据虚拟化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="210" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
