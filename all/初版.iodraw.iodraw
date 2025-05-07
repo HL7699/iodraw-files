@@ -103,11 +103,11 @@
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-52" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="422.5" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4ttNP-QqYCXLfUL0XQH-53" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="366" y="422.5" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="P4ttNP-QqYCXLfUL0XQH-55" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_pipeline;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="67.5" height="81" as="geometry" />
+          <mxGeometry x="360" y="420" width="27.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="P4ttNP-QqYCXLfUL0XQH-56" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="48.6" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
