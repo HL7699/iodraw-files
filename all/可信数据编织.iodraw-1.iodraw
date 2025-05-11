@@ -31,7 +31,7 @@
             <mxPoint x="370" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-11" value="查询接口，管理接口，统计接口，鉴权接口" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-11" value="查询接口&#xa;管理接口&#xa;统计接口&#xa;鉴权接口" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
