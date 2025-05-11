@@ -14,10 +14,10 @@
           <mxGeometry x="170" y="75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;态势分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="75" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;专项预报&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="75" width="90" height="30" as="geometry" />
+          <mxGeometry x="370" y="75" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-5" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Lexend, Helvetica, SourceCodePro, NotoSansSC; orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;指挥统筹&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="75" width="90" height="30" as="geometry" />
