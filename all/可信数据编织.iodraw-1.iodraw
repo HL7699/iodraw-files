@@ -211,13 +211,14 @@
             <mxPoint x="750" y="609.49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=-0.018;exitY=0.701;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8ddXQ4lW7M27fSCAgdJv-98" target="8ddXQ4lW7M27fSCAgdJv-59">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=-0.018;exitY=0.701;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="495" as="sourcePoint" />
+            <mxPoint x="750.0000000000001" y="504.12" as="sourcePoint" />
+            <mxPoint x="521.08" y="504.5000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-125" value="可信数据接入与确权" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="458" width="130" height="30" as="geometry" />
+          <mxGeometry x="556.08" y="467.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
