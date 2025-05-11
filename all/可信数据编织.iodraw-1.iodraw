@@ -223,7 +223,7 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-125" value="可信数据接入与确权" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;扩散上链&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="675" y="387.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据消费&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
