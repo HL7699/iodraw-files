@@ -55,8 +55,8 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-18" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;兵力分配&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="265" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-33" value="统一数据服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="480" height="60" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-33" value="统一数据服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="530" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
