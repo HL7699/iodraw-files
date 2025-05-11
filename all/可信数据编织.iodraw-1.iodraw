@@ -187,11 +187,8 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="771.25" y="467.5" width="37.5" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="781.25" y="477.5" width="37.5" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8ddXQ4lW7M27fSCAgdJv-113" target="8ddXQ4lW7M27fSCAgdJv-113">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据汇聚&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="771.25" y="210" width="37.5" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
