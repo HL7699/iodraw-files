@@ -113,13 +113,13 @@
           <mxGeometry x="50" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型数据库集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="560" width="120" height="25" as="geometry" />
+          <mxGeometry x="180" y="560" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="590" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="600" width="90" height="25" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="590" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
