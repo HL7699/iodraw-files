@@ -170,7 +170,7 @@
           <mxGeometry x="140" y="630" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-103" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="570" width="100" height="20" as="geometry" />
+          <mxGeometry x="240" y="635" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
