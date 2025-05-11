@@ -137,19 +137,19 @@
           <mxGeometry x="445" y="610" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="550" width="170" height="130" as="geometry" />
+          <mxGeometry x="570" y="550" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="560" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="585" width="90" height="20" as="geometry" />
+          <mxGeometry x="635" y="585" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;xx系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="570" y="550" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="610" width="90" height="20" as="geometry" />
+          <mxGeometry x="635" y="610" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
