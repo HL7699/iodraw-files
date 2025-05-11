@@ -238,8 +238,8 @@
             <mxPoint x="520" y="174.5000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-137" value="多场景集成的隐私保护" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="563.92" y="150" width="140" height="30" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-137" value="多场景集成的隐私保护&lt;br&gt;&lt;br&gt;强共享、统计、模型共享" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="553.92" y="135" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
