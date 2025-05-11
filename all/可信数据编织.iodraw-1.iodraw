@@ -172,6 +172,9 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;元数据提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="635" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="630" width="220" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
