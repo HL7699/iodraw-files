@@ -70,7 +70,7 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-46" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=default;dashed=1;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
           <mxGeometry width="530" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统一数据访问&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统一数据视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
           <mxGeometry x="-5" y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结构化数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
