@@ -77,7 +77,7 @@
           <mxGeometry x="110" y="12.5" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;半结构化数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
-          <mxGeometry x="240" y="12.5" width="110" height="25" as="geometry" />
+          <mxGeometry x="220" y="12.5" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-52" value="&lt;span style=&quot;color: rgb(51, 51, 51); orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;非结构化数据&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8ddXQ4lW7M27fSCAgdJv-45">
           <mxGeometry x="390" y="12.5" width="110" height="25" as="geometry" />
@@ -223,7 +223,7 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="675" y="387.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据消费&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="70" width="35" height="35" as="geometry" />
         </mxCell>
       </root>
