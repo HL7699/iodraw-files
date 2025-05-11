@@ -109,9 +109,6 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="320" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据中台&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="560" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型数据库集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="560" width="120" height="25" as="geometry" />
         </mxCell>
@@ -122,7 +119,7 @@
           <mxGeometry x="250" y="590" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;各层级用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="590" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
