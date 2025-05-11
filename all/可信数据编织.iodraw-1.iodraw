@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="465" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1ShSPLSKLZJ0ylMxSc7I-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="700" height="60" as="geometry" />
         </mxCell>
@@ -15,6 +12,9 @@
         </mxCell>
         <mxCell id="1ShSPLSKLZJ0ylMxSc7I-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;情报推送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="75" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;态势分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="75" width="90" height="30" as="geometry" />
