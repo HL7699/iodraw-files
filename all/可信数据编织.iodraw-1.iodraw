@@ -7,9 +7,6 @@
         <mxCell id="1ShSPLSKLZJ0ylMxSc7I-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1ShSPLSKLZJ0ylMxSc7I-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;各层级用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -174,6 +171,9 @@
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-103" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;元数据提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="635" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
