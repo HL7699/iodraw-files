@@ -154,7 +154,7 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;···&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="605" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-98" value="&lt;h1&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;数据编织链&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-98" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;数据编织链&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="760" y="60" width="60" height="620" as="geometry" />
         </mxCell>
       </root>
