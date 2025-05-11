@@ -226,6 +226,9 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-131" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据消费&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="70" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-132" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据扩散&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="685" y="397.5" width="35" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
