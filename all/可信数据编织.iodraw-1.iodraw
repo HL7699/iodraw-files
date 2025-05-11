@@ -103,8 +103,8 @@
             <mxPoint x="375" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-59" value="关系型数据库管理接口，文件管理接口，更新同步接口（增删改查，统计，鉴权）" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="385" y="500" width="60" height="70" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-59" value="关系型数据库管理接口&#xa;文件管理接口&#xa;更新同步接口&#xa;增删改查，统计，鉴权" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385" y="500" width="135" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
