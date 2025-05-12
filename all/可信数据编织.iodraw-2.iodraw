@@ -223,12 +223,6 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结构化数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="332.5" width="90" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-50" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;半结构化数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="332.5" width="110" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-52" value="&lt;span style=&quot;color: rgb(51, 51, 51); orphans: 4; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;非结构化数据&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="332.5" width="110" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-134" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;可信联邦图谱构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="610" y="325" width="60" height="35" as="geometry" />
         </mxCell>
