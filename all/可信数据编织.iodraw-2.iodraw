@@ -262,6 +262,9 @@
         <mxCell id="bz-919CNKe411hmXwzfI-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可视化监测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="642.5" y="345" width="75" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="bz-919CNKe411hmXwzfI-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可视化监测&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="387.5" width="75" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
