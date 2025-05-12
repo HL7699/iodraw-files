@@ -211,7 +211,7 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-130" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;扩散上链&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="390" y="387.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="bz-919CNKe411hmXwzfI-4" value="链上链下协同管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bz-919CNKe411hmXwzfI-4" value="多场景集成的隐私保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="240" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="bz-919CNKe411hmXwzfI-5" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;元数据体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
