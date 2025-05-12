@@ -43,9 +43,6 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据编织&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="220" width="100" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-45" value="" style="group;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;container=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="320" width="530" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据接入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="390" width="90" height="30" as="geometry" />
         </mxCell>
@@ -205,9 +202,6 @@
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据访问&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="252.5" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据查询&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="252.5" width="70" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据推送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="252.5" width="70" height="25" as="geometry" />
         </mxCell>
@@ -215,7 +209,7 @@
           <mxGeometry x="490" y="247.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-46" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="320" width="530" height="50" as="geometry" />
+          <mxGeometry x="150" y="320" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统一数据视图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="330" width="110" height="30" as="geometry" />
@@ -224,7 +218,7 @@
           <mxGeometry x="260" y="332.5" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-134" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;可信联邦图谱构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="610" y="325" width="60" height="35" as="geometry" />
+          <mxGeometry x="375" y="327.5" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
