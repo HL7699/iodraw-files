@@ -55,7 +55,7 @@
             <mxPoint x="372.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-59" value="关系型数据库管理接口&#xa;文件管理接口&#xa;更新同步接口&#xa;增删改查，统计，鉴权" style="text;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-59" value="数据编织管理接口&#xa;增删改查，统计，鉴权等&#xa;元数据可信注册&#xa;元数据初始校验&#xa;&#xa;" style="text;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="385" y="460" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
