@@ -74,7 +74,7 @@
           <mxGeometry x="198" y="590" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="630" width="90" height="25" as="geometry" />
+          <mxGeometry x="198" y="620" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据中台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="100" height="130" as="geometry" />
