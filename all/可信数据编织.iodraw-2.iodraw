@@ -220,9 +220,6 @@
         <mxCell id="bz-919CNKe411hmXwzfI-6" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;知识图谱隐私保护嵌入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="420" width="152" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bz-919CNKe411hmXwzfI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bz-919CNKe411hmXwzfI-7" target="bz-919CNKe411hmXwzfI-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bz-919CNKe411hmXwzfI-7" value="差分隐私" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="312.5" width="80" height="25" as="geometry" />
         </mxCell>
@@ -236,7 +233,7 @@
           <mxGeometry x="450" y="345" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="bz-919CNKe411hmXwzfI-11" value="差分隐私" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="322.5" width="80" height="25" as="geometry" />
+          <mxGeometry x="450" y="265" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
