@@ -65,49 +65,49 @@
           <mxGeometry x="385" y="460" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="550" width="270" height="100" as="geometry" />
+          <mxGeometry x="40" y="550" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型数据库集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="560" width="120" height="25" as="geometry" />
+          <mxGeometry x="160" y="560" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="198" y="590" width="90" height="25" as="geometry" />
+          <mxGeometry x="178" y="590" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件集群&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="198" y="620" width="90" height="25" as="geometry" />
+          <mxGeometry x="178" y="620" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据中台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="40" y="550" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="550" width="170" height="100" as="geometry" />
+          <mxGeometry x="352" y="550" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;关系型数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="560" width="100" height="20" as="geometry" />
+          <mxGeometry x="412" y="560" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-75" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="585" width="90" height="20" as="geometry" />
+          <mxGeometry x="417" y="585" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;xx系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="380" y="550" width="50" height="100" as="geometry" />
+          <mxGeometry x="352" y="550" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="610" width="90" height="20" as="geometry" />
+          <mxGeometry x="417" y="610" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-92" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="550" width="150" height="100" as="geometry" />
+          <mxGeometry x="542" y="550" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="635" y="560" width="70" height="20" as="geometry" />
+          <mxGeometry x="607" y="560" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="635" y="585" width="75" height="20" as="geometry" />
+          <mxGeometry x="607" y="585" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;xx系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="570" y="550" width="50" height="100" as="geometry" />
+          <mxGeometry x="542" y="550" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文件库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="635" y="610" width="75" height="20" as="geometry" />
+          <mxGeometry x="607" y="610" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ddXQ4lW7M27fSCAgdJv-46" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="320" width="502" height="50" as="geometry" />
