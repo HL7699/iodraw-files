@@ -266,7 +266,10 @@
           <mxGeometry x="645" y="345" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="bz-919CNKe411hmXwzfI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="183.5" width="205" height="230" as="geometry" />
+          <mxGeometry x="580" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bz-919CNKe411hmXwzfI-27" value="多场景集成的隐私保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="75" width="160" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
