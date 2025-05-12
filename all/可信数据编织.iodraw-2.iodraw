@@ -175,8 +175,8 @@
             <mxPoint x="520" y="174.5000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ddXQ4lW7M27fSCAgdJv-137" value="多场景集成的隐私保护&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;强共享、统计、模型共享&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="145" width="160" height="60" as="geometry" />
+        <mxCell id="8ddXQ4lW7M27fSCAgdJv-137" value="共享数据合规使用&lt;br&gt;&lt;br&gt;数据需求有效分解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="575" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bz-919CNKe411hmXwzfI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="435" y="220" width="205" height="230" as="geometry" />
