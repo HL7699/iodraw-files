@@ -232,8 +232,11 @@
         <mxCell id="bz-919CNKe411hmXwzfI-10" value="多方安全计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="345" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="bz-919CNKe411hmXwzfI-11" value="差分隐私" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="265" width="60" height="25" as="geometry" />
+        <mxCell id="bz-919CNKe411hmXwzfI-11" value="强共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="265" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bz-919CNKe411hmXwzfI-13" value="强共享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="275" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
