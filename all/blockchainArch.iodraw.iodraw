@@ -121,7 +121,7 @@
         <mxCell id="20uf0C761pp5Upgt8WG4-93" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;链结构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="480" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="20uf0C761pp5Upgt8WG4-94" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;医疗信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="20uf0C761pp5Upgt8WG4-94" value="Merkle树" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="510" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="20uf0C761pp5Upgt8WG4-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;身份凭证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
