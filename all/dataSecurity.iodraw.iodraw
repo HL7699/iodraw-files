@@ -73,10 +73,10 @@
         <mxCell id="6nH3so1_8XJdXlehReC8-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据要素结构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6nH3so1_8XJdXlehReC8-40" value="结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nH3so1_8XJdXlehReC8-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;结构化数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="210" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nH3so1_8XJdXlehReC8-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nH3so1_8XJdXlehReC8-41" value="半结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="270" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
