@@ -14,13 +14,16 @@
           <mxGeometry x="210" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;机密性&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="210" y="210" width="25" height="70" as="geometry" />
+          <mxGeometry x="210" y="210" width="25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;访问控制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="235" y="210" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据加密&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="235" y="240" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6nH3so1_8XJdXlehReC8-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据脱敏&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="235" y="270" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
