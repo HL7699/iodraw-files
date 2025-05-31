@@ -49,7 +49,7 @@
         <mxCell id="6nH3so1_8XJdXlehReC8-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;容灾恢复&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="235" y="490" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6nH3so1_8XJdXlehReC8-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据敏感划分&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="6nH3so1_8XJdXlehReC8-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;数据划分&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;机密性&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
