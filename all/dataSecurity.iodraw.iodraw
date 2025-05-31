@@ -61,7 +61,7 @@
         <mxCell id="6nH3so1_8XJdXlehReC8-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;受限/敏感数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe7cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="320" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6nH3so1_8XJdXlehReC8-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;敏感数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe0cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="6nH3so1_8XJdXlehReC8-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个人敏感数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe0cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="370" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6nH3so1_8XJdXlehReC8-37" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;敏感数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffdbcc;strokeColor=#d6b656;" vertex="1" parent="1">
