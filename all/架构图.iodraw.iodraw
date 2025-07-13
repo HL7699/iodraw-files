@@ -4,6 +4,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="50" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-2" value="&lt;b&gt;安全审计层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingTop=5;fontSize=12;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-1">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-3" value="行为审计&lt;br&gt;异常监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-1">
+          <mxGeometry x="20" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-4" value="信任评估&lt;br&gt;事件溯源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-1">
+          <mxGeometry x="145" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-5" value="威胁情报&lt;br&gt;合规审计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-1">
+          <mxGeometry x="270" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="150" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-7" value="&lt;b&gt;数据安全层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingTop=5;fontSize=12;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-6">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-8" value="同态加密&lt;br&gt;属性基加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-6">
+          <mxGeometry x="20" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-9" value="数据脱敏&lt;br&gt;安全计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-6">
+          <mxGeometry x="145" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-10" value="区块链存证&lt;br&gt;隐私保护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-6">
+          <mxGeometry x="270" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="250" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-12" value="&lt;b&gt;访问控制层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingTop=5;fontSize=12;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-11">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-13" value="ABAC引擎&lt;br&gt;策略评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-11">
+          <mxGeometry x="20" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-14" value="权限管理&lt;br&gt;动态控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-11">
+          <mxGeometry x="145" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-15" value="行为分析&lt;br&gt;风险控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-11">
+          <mxGeometry x="270" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="350" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-17" value="&lt;b&gt;身份认证层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingTop=5;fontSize=12;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-16">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-18" value="去中心化身份&lt;br&gt;DID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-16">
+          <mxGeometry x="20" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-19" value="多因素认证&lt;br&gt;MFA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-16">
+          <mxGeometry x="145" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-20" value="联邦身份&lt;br&gt;生物识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-16">
+          <mxGeometry x="270" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="450" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-22" value="&lt;b&gt;网络接入层&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingTop=5;fontSize=12;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-21">
+          <mxGeometry width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-23" value="零信任网关&lt;br&gt;设备评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-21">
+          <mxGeometry x="20" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-24" value="SDN网络&lt;br&gt;动态分段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-21">
+          <mxGeometry x="145" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-25" value="流量控制&lt;br&gt;微隔离" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" vertex="1" parent="63yQr6TDXmdNyqoJLn0_-21">
+          <mxGeometry x="270" y="25" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-26" value="&lt;b&gt;内生安全数据共享系统技术架构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="63yQr6TDXmdNyqoJLn0_-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
