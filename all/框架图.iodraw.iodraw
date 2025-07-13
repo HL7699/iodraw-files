@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XyHEY4E4go4gluPewjF4">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,25 +115,25 @@
         <mxCell id="ncBWhAuopKtA7Fv9mHTQ-2" value="合法性校验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="385" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-1" value="链上链下协同管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-1" value="链上链下协同管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="165" width="160" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-2" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;元数据体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-2" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;元数据体系&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="488" y="290" width="152" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;知识图谱隐私保护嵌入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-3" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;知识图谱隐私保护嵌入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="488" y="325" width="152" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-4" value="差分隐私" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-4" value="差分隐私" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="476" y="220" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-5" value="联邦学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-5" value="联邦学习" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="566" y="220" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-6" value="生成式模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-6" value="生成式模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="566" y="255" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="RrP5Kom8RSuNWSjlsjOL-7" value="多方安全计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RrP5Kom8RSuNWSjlsjOL-7" value="多方安全计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="476" y="255" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
