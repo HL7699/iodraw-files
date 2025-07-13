@@ -4,33 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-2" value="&lt;b&gt;安全审计与监控层&lt;/b&gt;&lt;br&gt;• 行为日志审计&lt;br&gt;• 异常流量监测&lt;br&gt;• 动态信任评估&lt;br&gt;• 安全事件溯源&lt;br&gt;• 实时威胁情报" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-3" value="&lt;b&gt;数据安全层&lt;/b&gt;&lt;br&gt;• 同态加密&lt;br&gt;• 属性基加密(ABE)&lt;br&gt;• 数据脱敏&lt;br&gt;• 区块链存证&lt;br&gt;• 安全多方计算" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-4" value="&lt;b&gt;访问控制层&lt;/b&gt;&lt;br&gt;• ABAC策略引擎&lt;br&gt;• 实时策略评估&lt;br&gt;• 行为模式分析(ML)&lt;br&gt;• 动态权限管理&lt;br&gt;• 风险自适应控制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-5" value="&lt;b&gt;身份认证层&lt;/b&gt;&lt;br&gt;• 去中心化身份(DID)&lt;br&gt;• 多因素认证(MFA)&lt;br&gt;• 联邦身份管理&lt;br&gt;• 零信任认证&lt;br&gt;• 生物特征识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="350" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-6" value="&lt;b&gt;网络接入层&lt;/b&gt;&lt;br&gt;• 零信任网关&lt;br&gt;• 软件定义网络(SDN)&lt;br&gt;• 动态网络分段&lt;br&gt;• 设备信任评估&lt;br&gt;• 微隔离技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;spacingTop=5;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="400" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-7" value="&lt;b&gt;内生安全数据共享系统技术架构&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="280" y="10" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="450" as="sourcePoint" />
-            <mxPoint x="400" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IFkxRpBMgojlQaWrZU0B-9" value="&lt;b&gt;内生安全核心特性：&lt;/b&gt;&lt;br&gt;• 安全能力与业务功能融合&lt;br&gt;• 动态纵深防御体系&lt;br&gt;• 安全策略自动化编排&lt;br&gt;• 信任评估持续演进" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;align=left;spacing=5;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="160" height="110" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
