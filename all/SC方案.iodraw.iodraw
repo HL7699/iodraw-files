@@ -10,6 +10,9 @@
         <mxCell id="bsOuPEguJPFWVTAVgn9B-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain_developer.svg;" vertex="1" parent="1">
           <mxGeometry x="530" y="100" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bsOuPEguJPFWVTAVgn9B-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="66" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
