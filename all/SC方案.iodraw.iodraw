@@ -13,11 +13,8 @@
         <mxCell id="bsOuPEguJPFWVTAVgn9B-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="246" y="300" width="66" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="bsOuPEguJPFWVTAVgn9B-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
-          <mxGeometry x="560" y="356.5" width="37" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="bsOuPEguJPFWVTAVgn9B-6" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 19px;&quot;&gt;CSP&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="90" height="50" as="geometry" />
+          <mxGeometry x="515" y="306.5" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
