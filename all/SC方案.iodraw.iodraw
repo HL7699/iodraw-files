@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bsOuPEguJPFWVTAVgn9B-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="354" y="70" width="406" height="180" as="geometry" />
+        <mxCell id="bsOuPEguJPFWVTAVgn9B-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="90" width="406" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bsOuPEguJPFWVTAVgn9B-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
           <mxGeometry x="390" y="112" width="68" height="68" as="geometry" />
