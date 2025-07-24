@@ -8,7 +8,7 @@
           <mxGeometry x="246" y="100" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="bsOuPEguJPFWVTAVgn9B-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain_developer.svg;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="530" y="100" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
