@@ -127,7 +127,11 @@
           <mxGeometry x="245" y="550" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-37" target="poBQG6yfTCy4mltWcTPo-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="124" y="656" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-37" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;得出网格内&lt;br&gt;排序后列表&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="550" width="80" height="52.5" as="geometry" />
