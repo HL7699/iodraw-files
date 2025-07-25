@@ -31,8 +31,8 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-10" value="&lt;sub&gt;生成网格参数&lt;br&gt;初始化网格区间&lt;br&gt;阈值&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-14" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="228.75" width="80" height="52.5" as="geometry" />
+        <mxCell id="poBQG6yfTCy4mltWcTPo-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;根据区域和人员划分构建网格树&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
