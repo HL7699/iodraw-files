@@ -7,6 +7,12 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
           <mxGeometry x="90" y="100" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 19px;&quot;&gt;CSP&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain_developer.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
