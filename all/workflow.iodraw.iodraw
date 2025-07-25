@@ -174,8 +174,8 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;检查增量树结构&lt;br&gt;是否进行&lt;br&gt;叶子节点合并&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="700" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-52" value="网格内加密&lt;br&gt;任务匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="522.5" width="80" height="40" as="geometry" />
+        <mxCell id="poBQG6yfTCy4mltWcTPo-52" value="动态更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="711.25" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
