@@ -87,13 +87,13 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和属性&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sub&gt;t&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-22" target="poBQG6yfTCy4mltWcTPo-20">
+        <mxCell id="poBQG6yfTCy4mltWcTPo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="390" as="sourcePoint" />
-            <mxPoint x="164" y="416" as="targetPoint" />
+            <mxPoint x="540.0285714285715" y="380" as="sourcePoint" />
+            <mxPoint x="124.02857142857135" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="380" />
-              <mxPoint x="124" y="380" />
+              <mxPoint x="540" y="370" />
+              <mxPoint x="124" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
