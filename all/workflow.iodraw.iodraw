@@ -104,7 +104,12 @@
           <mxGeometry x="245" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-30" target="poBQG6yfTCy4mltWcTPo-38">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="440" />
+              <mxPoint x="127" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;工人申请查询&lt;br&gt;CT&lt;sub&gt;Q&lt;/sub&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="460" width="80" height="52.5" as="geometry" />
@@ -120,6 +125,9 @@
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-37" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CSP根据收集的sk&lt;sub&gt;j&lt;/sub&gt;联合评估&lt;br&gt;f(Q,T)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="550" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-38" target="poBQG6yfTCy4mltWcTPo-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;智能合约&lt;br&gt;执行匹配过程&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="87" y="460" width="80" height="52.5" as="geometry" />
