@@ -19,11 +19,17 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-5" target="poBQG6yfTCy4mltWcTPo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-5" target="poBQG6yfTCy4mltWcTPo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-5" value="生成主密钥&lt;br&gt;MSK，PK&lt;br&gt;分割f(Q,T)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="210" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-6" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="208.75" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="64" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
