@@ -40,8 +40,8 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-16" value="&lt;sub&gt;任务加入&lt;br&gt;获取基本参数&lt;br&gt;当前划分位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-17" value="&lt;sub&gt;任务加入&lt;br&gt;获取基本参数&lt;br&gt;当前划分位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="80" height="52.5" as="geometry" />
+        <mxCell id="poBQG6yfTCy4mltWcTPo-17" value="&lt;sub&gt;工人加入&lt;br&gt;获取基本参数&lt;br&gt;当前划分位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
