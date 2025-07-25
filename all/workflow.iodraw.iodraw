@@ -8,13 +8,13 @@
           <mxGeometry x="90" y="100" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 19px;&quot;&gt;CSP&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="220" y="110" width="70" height="40" as="geometry" />
+          <mxGeometry x="250" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain_developer.svg;" vertex="1" parent="1">
-          <mxGeometry x="340" y="104" width="60" height="60" as="geometry" />
+          <mxGeometry x="370" y="104" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="40" height="60" as="geometry" />
+          <mxGeometry x="510" y="100" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
