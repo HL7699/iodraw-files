@@ -169,13 +169,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-49" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;验证匹配结果&lt;br&gt;更新匹配列表M&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="163" y="700" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="163" y="720" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-50" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;检查增量树结构&lt;br&gt;是否进行&lt;br&gt;叶子节点合并&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="700" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="720" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-52" value="动态更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="711.25" width="70" height="30" as="geometry" />
+          <mxGeometry x="45" y="731.25" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-53" value="&lt;sub&gt;任务加入&lt;br&gt;获取基本参数&lt;br&gt;当前网格位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="459" y="720" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-54" value="&lt;sub&gt;工人加入&lt;br&gt;获取基本参数&lt;br&gt;当前网格位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="599" y="720" width="80" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
