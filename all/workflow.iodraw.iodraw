@@ -76,7 +76,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和偏好&lt;br&gt;CT&lt;sub&gt;q&lt;/sub&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="poBQG6yfTCy4mltWcTPo-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和偏好&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sub&gt;e&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-20" target="poBQG6yfTCy4mltWcTPo-28">
@@ -87,7 +87,7 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-22" target="poBQG6yfTCy4mltWcTPo-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和属性&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sub&gt;t&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="poBQG6yfTCy4mltWcTPo-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和属性&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub&gt;q&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
