@@ -65,7 +65,7 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-17" value="&lt;sub&gt;工人加入&lt;br&gt;获取基本参数&lt;br&gt;当前网格位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="poBQG6yfTCy4mltWcTPo-20" value="记录实体哈希&lt;br&gt;树结构阈值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="390" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-21" target="poBQG6yfTCy4mltWcTPo-20">
