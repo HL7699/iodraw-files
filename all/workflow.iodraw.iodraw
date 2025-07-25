@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="poBQG6yfTCy4mltWcTPo-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/blockchain/Consortium.svg;" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="68" height="68" as="geometry" />
+          <mxGeometry x="169" y="100" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-2" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 19px;&quot;&gt;CSP&lt;/font&gt;" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="110" width="70" height="40" as="geometry" />
+          <mxGeometry x="329" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/blockchain_developer.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="104" width="60" height="60" as="geometry" />
+          <mxGeometry x="469" y="104" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="100" width="40" height="60" as="geometry" />
+          <mxGeometry x="629" y="100" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-5" target="poBQG6yfTCy4mltWcTPo-6">
           <mxGeometry relative="1" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-5" value="生成主密钥&lt;br&gt;MSK，PK&lt;br&gt;分割f(Q,T)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81" y="191.25" width="86" height="50" as="geometry" />
+          <mxGeometry x="160" y="191.25" width="86" height="50" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-6" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="190" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="190" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-10" target="poBQG6yfTCy4mltWcTPo-14">
           <mxGeometry relative="1" as="geometry" />
@@ -34,50 +34,50 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-10" target="poBQG6yfTCy4mltWcTPo-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="271.25" />
-              <mxPoint x="420" y="271.25" />
+              <mxPoint x="203" y="271.25" />
+              <mxPoint x="499" y="271.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-10" target="poBQG6yfTCy4mltWcTPo-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="261.25" />
-              <mxPoint x="560" y="261.25" />
+              <mxPoint x="203" y="261.25" />
+              <mxPoint x="639" y="261.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-10" value="&lt;sub&gt;生成网格参数&lt;br&gt;初始化网格区间&lt;br&gt;阈值&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="84" y="281.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="163" y="281.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;根据区域和人员划分构建网格树&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="281.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="281.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-16" target="poBQG6yfTCy4mltWcTPo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-16" value="&lt;sub&gt;任务加入&lt;br&gt;获取基本参数&lt;br&gt;当前网格位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="281.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="459" y="281.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-17" target="poBQG6yfTCy4mltWcTPo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-17" value="&lt;sub&gt;工人加入&lt;br&gt;获取基本参数&lt;br&gt;当前网格位置&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="281.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="599" y="281.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;记录实体哈希&lt;br&gt;树结构阈值&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="84" y="371.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="163" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-21" target="poBQG6yfTCy4mltWcTPo-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="361.25" />
-              <mxPoint x="120" y="361.25" />
+              <mxPoint x="479" y="361.25" />
+              <mxPoint x="199" y="361.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和偏好&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub&gt;t&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="371.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="459" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-20" target="poBQG6yfTCy4mltWcTPo-28">
           <mxGeometry relative="1" as="geometry">
@@ -88,73 +88,76 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;生成ZKP证明&lt;br&gt;加密位置和属性&lt;br&gt;CT&lt;/span&gt;&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;&lt;sub&gt;q&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="371.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="599" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535.9985714285715" y="371.25" as="sourcePoint" />
-            <mxPoint x="119.99857142857135" y="371.25" as="targetPoint" />
+            <mxPoint x="614.9985714285715" y="371.25" as="sourcePoint" />
+            <mxPoint x="198.99857142857135" y="371.25" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="535.97" y="361.25" />
-              <mxPoint x="119.97" y="361.25" />
+              <mxPoint x="614.97" y="361.25" />
+              <mxPoint x="198.97" y="361.25" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;判断是否进行叶子节点分裂&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="371.25" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="371.25" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-30" target="poBQG6yfTCy4mltWcTPo-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="440" />
-              <mxPoint x="127" y="440" />
+              <mxPoint x="639" y="440" />
+              <mxPoint x="206" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;工人申请查询&lt;br&gt;CT&lt;sub&gt;Q&lt;/sub&gt;=FE.Enc&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="460" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="599" y="460" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-32" target="poBQG6yfTCy4mltWcTPo-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-32" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;获取工人的位置哈希和ZKP网格划分结果&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="460" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="460" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-35" target="poBQG6yfTCy4mltWcTPo-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-35" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;CSP根据收集的sk&lt;sub&gt;j&lt;/sub&gt;评估该工人和网格内任务f(Q,T)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="245" y="550" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="324" y="550" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-37" target="poBQG6yfTCy4mltWcTPo-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="656" />
+              <mxPoint x="203" y="656" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-37" target="poBQG6yfTCy4mltWcTPo-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="124" y="620" />
-              <mxPoint x="560" y="620" />
+              <mxPoint x="203" y="620" />
+              <mxPoint x="639" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-37" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;得出网格内&lt;br&gt;排序后列表&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="84" y="550" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="163" y="550" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-38" target="poBQG6yfTCy4mltWcTPo-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-38" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;智能合约&lt;br&gt;执行匹配过程&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="87" y="460" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="166" y="460" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;接收匹配结果&lt;br&gt;可选择验证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="630" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="459" y="630" width="80" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-42" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;接收匹配结果&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可选择验证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="630" width="80" height="52.5" as="geometry" />
+          <mxGeometry x="599" y="630" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="198" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
