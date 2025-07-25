@@ -71,7 +71,7 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-21" target="poBQG6yfTCy4mltWcTPo-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="380" />
+              <mxPoint x="400" y="380" />
               <mxPoint x="124" y="380" />
             </Array>
           </mxGeometry>
@@ -89,11 +89,11 @@
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.0285714285715" y="380" as="sourcePoint" />
-            <mxPoint x="124.02857142857135" y="380" as="targetPoint" />
+            <mxPoint x="535.9985714285715" y="390" as="sourcePoint" />
+            <mxPoint x="119.99857142857135" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="370" />
-              <mxPoint x="124" y="370" />
+              <mxPoint x="535.97" y="380" />
+              <mxPoint x="119.97" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
