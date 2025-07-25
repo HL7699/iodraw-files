@@ -19,6 +19,9 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-5" target="poBQG6yfTCy4mltWcTPo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="poBQG6yfTCy4mltWcTPo-5" target="poBQG6yfTCy4mltWcTPo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-5" value="生成主密钥&lt;br&gt;MSK，PK&lt;br&gt;分割f(Q,T)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="210" width="86" height="50" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="poBQG6yfTCy4mltWcTPo-10" value="&lt;sub&gt;生成网格参数&lt;br&gt;初始化网格区间&lt;br&gt;阈值&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="84" y="300" width="80" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="poBQG6yfTCy4mltWcTPo-14" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="228.75" width="80" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
