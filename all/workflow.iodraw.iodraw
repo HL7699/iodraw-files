@@ -159,8 +159,8 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-45" value="初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="201.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-46" value="初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="poBQG6yfTCy4mltWcTPo-46" value="增量树构建和&lt;br&gt;实体加入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="345" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
