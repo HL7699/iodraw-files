@@ -25,8 +25,8 @@
         <mxCell id="poBQG6yfTCy4mltWcTPo-6" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="208.75" width="80" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="poBQG6yfTCy4mltWcTPo-10" value="获得分割后&lt;br&gt;密钥sk&lt;sub&gt;j&lt;br&gt;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="218.75" width="80" height="52.5" as="geometry" />
+        <mxCell id="poBQG6yfTCy4mltWcTPo-10" value="&lt;sub&gt;生成网格参数&lt;br&gt;初始化网格区间&lt;br&gt;阈值&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="84" y="300" width="80" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
